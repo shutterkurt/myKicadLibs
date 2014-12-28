@@ -1,3 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP DS18B20
+D 1-Wire Temperature
+$ENDCMP
+#
+$CMP TMP36
+D Analog Temperature
+$ENDCMP
+#
+$CMP WS2812B
+D Neopixel
+$ENDCMP
+#
 #End Doc Library
